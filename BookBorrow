@@ -1,0 +1,505 @@
+Welcome please enter the Library's name to get started : 
+Library
+
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+1
+
+**************************************************
+
+Please enter the following information
+User Type (1- Member, 2-Staff): 
+1
+First name : 
+Member
+Last name: 
+member
+
+Email Address: 
+member@gmail.com
+Person ID : 
+123423
+Age: 
+12
+Successfully added new member
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+1
+
+**************************************************
+
+Please enter the following information
+User Type (1- Member, 2-Staff): 
+2
+First name : 
+Staff
+Last name: 
+Staff
+
+Email Address: 
+staff@gmail.com
+Person ID : 
+12332
+Floor Assignment: 
+1
+Section Assignment: 
+section1
+Successfully added new member
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+4
+
+------------------
+
+ID: 123423
+Name:  member
+Email: member@gmail.com
+Age: 12
+List of Books borrowed: 
+
+------------------
+
+ID: 12332
+Name:  Staff
+Email: staff@gmail.com
+Floor Assignment: 1
+Section Assignment: section1
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+2
+
+------------------
+
+ID: 123423
+Name:  member
+Email: member@gmail.com
+Age: 12
+List of Books borrowed: 
+
+------------------
+
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+3
+
+------------------
+
+
+------------------
+
+ID: 12332
+Name:  Staff
+Email: staff@gmail.com
+Floor Assignment: 1
+Section Assignment: section1
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+2
+
+***********************BOOK MANAGEMENT MENU**************************
+
+1-Add Book
+2-Borrow book
+3-Return book
+4-Display Books
+5-Exit
+Please select an option : 
+1
+
+**************************************************
+
+Please enter the following information
+Book Name:
+Book Fiction
+Author: 
+author
+
+Publisher: 
+publisher
+
+Published Date: 
+11/02/2021
+Genre (1-Fiction , 2-Nonfiction):
+1
+Category (1-Comic , 2-Fantasy):
+1
+Successfully added book 
+ID: 1745759280
+Book Name: 
+Genre: FICTION
+Author: author
+Publisher: publisher
+Published Date: 11-02-2021
+Category:COMIC
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+2
+
+***********************BOOK MANAGEMENT MENU**************************
+
+1-Add Book
+2-Borrow book
+3-Return book
+4-Display Books
+5-Exit
+Please select an option : 
+1
+
+**************************************************
+
+Please enter the following information
+Book Name:
+Book nonfiction
+Author: 
+author
+
+Publisher: 
+publisher
+
+Published Date: 
+
+2/12/2021
+Genre (1-Fiction , 2-Nonfiction):
+2
+Category (1-Science , 2-History, 3-Biography):
+3
+Successfully added book 
+ID: 973530402
+Book Name: 
+Genre: NONFICTION
+Author: author
+Publisher: publisher
+Published Date: 02-12-2021
+Category:BIOGRAPHY
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+2
+
+***********************BOOK MANAGEMENT MENU**************************
+
+1-Add Book
+2-Borrow book
+3-Return book
+4-Display Books
+5-Exit
+Please select an option : 
+4
+
+------------------
+
+
+ID: 1745759280
+Book Name: 
+Genre: FICTION
+Author: author
+Publisher: publisher
+Published Date: 11-02-2021
+Category:COMIC
+
+------------------
+
+
+ID: 973530402
+Book Name: 
+Genre: NONFICTION
+Author: author
+Publisher: publisher
+Published Date: 02-12-2021
+Category:BIOGRAPHY
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+2
+
+***********************BOOK MANAGEMENT MENU**************************
+
+1-Add Book
+2-Borrow book
+3-Return book
+4-Display Books
+5-Exit
+Please select an option : 
+2
+
+------------------
+
+
+ID: 1745759280
+Book Name: 
+Genre: FICTION
+Author: author
+Publisher: publisher
+Published Date: 11-02-2021
+Category:COMIC
+
+------------------
+
+
+ID: 973530402
+Book Name: 
+Genre: NONFICTION
+Author: author
+Publisher: publisher
+Published Date: 02-12-2021
+Category:BIOGRAPHY
+
+ Enter book ID to borrow: 
+973530402
+
+------------------
+
+ID: 123423
+Name:  member
+Email: member@gmail.com
+Age: 12
+List of Books borrowed: 
+
+------------------
+
+ID: 12332
+Name:  Staff
+Email: staff@gmail.com
+Floor Assignment: 1
+Section Assignment: section1
+
+ Enter Members ID: 
+123423
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+4
+
+------------------
+
+ID: 123423
+Name:  member
+Email: member@gmail.com
+Age: 12
+List of Books borrowed: [
+ID: 973530402
+Book Name: 
+Genre: NONFICTION
+Author: author
+Publisher: publisher
+Published Date: 02-12-2021
+Category:BIOGRAPHY]
+---------
+
+------------------
+
+ID: 12332
+Name:  Staff
+Email: staff@gmail.com
+Floor Assignment: 1
+Section Assignment: section1
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+2
+
+***********************BOOK MANAGEMENT MENU**************************
+
+1-Add Book
+2-Borrow book
+3-Return book
+4-Display Books
+5-Exit
+Please select an option : 
+2
+
+------------------
+
+
+ID: 1745759280
+Book Name: 
+Genre: FICTION
+Author: author
+Publisher: publisher
+Published Date: 11-02-2021
+Category:COMIC
+
+------------------
+
+
+ID: 973530402
+Book Name: 
+Genre: NONFICTION
+Author: author
+Publisher: publisher
+Published Date: 02-12-2021
+Category:BIOGRAPHY
+
+ Enter book ID to borrow: 
+973530402
+
+------------------
+
+ID: 123423
+Name:  member
+Email: member@gmail.com
+Age: 12
+List of Books borrowed: [
+ID: 973530402
+Book Name: 
+Genre: NONFICTION
+Author: author
+Publisher: publisher
+Published Date: 02-12-2021
+Category:BIOGRAPHY]
+---------
+
+------------------
+
+ID: 12332
+Name:  Staff
+Email: staff@gmail.com
+Floor Assignment: 1
+Section Assignment: section1
+
+ Enter Members ID: 
+12332
+Staff cannot borrow books
+
+Do you want to perform another task? (Yes/No)

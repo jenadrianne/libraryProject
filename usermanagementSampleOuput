@@ -1,0 +1,191 @@
+Welcome please enter the Library's name to get started : 
+Library
+
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+1
+
+**************************************************
+
+Please enter the following information
+User Type (1- Member, 2-Staff): 
+1
+First name : 
+Member
+Last name: 
+member
+
+Email Address: 
+member@gmail.com
+Person ID : 
+123423
+Age: 
+12
+Successfully added new member
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+1
+
+**************************************************
+
+Please enter the following information
+User Type (1- Member, 2-Staff): 
+2
+First name : 
+Staff
+Last name: 
+Staff
+
+Email Address: 
+staff@gmail.com
+Person ID : 
+12332
+Floor Assignment: 
+1
+Section Assignment: 
+section1
+Successfully added new member
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+4
+
+------------------
+
+ID: 123423
+Name:  member
+Email: member@gmail.com
+Age: 12
+List of Books borrowed: 
+
+------------------
+
+ID: 12332
+Name:  Staff
+Email: staff@gmail.com
+Floor Assignment: 1
+Section Assignment: section1
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+2
+
+------------------
+
+ID: 123423
+Name:  member
+Email: member@gmail.com
+Age: 12
+List of Books borrowed: 
+
+------------------
+
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
+1
+
+***********************USER MANAGEMENT MENU**************************
+
+1-Add Member
+2-Display Member List
+3-Display Staff List
+4-Display ALL List
+5-Exit
+Please select an option : 
+3
+
+------------------
+
+
+------------------
+
+ID: 12332
+Name:  Staff
+Email: staff@gmail.com
+Floor Assignment: 1
+Section Assignment: section1
+
+Do you want to perform another task? (Yes/No)
+Yes
+
+***********************MENU**************************
+
+1-User Management
+2-Book Management
+3-Exit
+Please select an option : 
